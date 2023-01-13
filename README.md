@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🌱 I’m currently learning game development and web app development 
-- 👯 I’m looking to collaborate on Web, Java, and Game projects 
-- 📫 You can reach me on Discord @ SpaceMonk#7208
+- 👯 I’m looking to collaborate on Fullstack, Java, and Game projects 
+- 📫 You can reach me via email - dtammina@gmail.com
 - 😄 Pronouns: He/Him/His
 
