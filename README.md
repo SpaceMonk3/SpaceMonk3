@@ -6,6 +6,5 @@
 Here are some ideas to get you started:
 -->
 - 🌱 I’m currently learning ML, FullStack, & Game Dev. 
-- 👯 I’m looking to collaborate on Fullstack, Java, and Game projects 
-- 😄 Pronouns: He/Him/His
+- Contact: dtammina@gmail.com 
 
