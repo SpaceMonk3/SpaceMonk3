@@ -5,6 +5,6 @@
 
 Here are some ideas to get you started:
 -->
-- 🌱 I’m currently learning ML, FullStack, & Game Dev. 
+- 🌱 I’m currently learning FullStack, ML, & Game Dev. 
 - 📬 Contact: dtammina@gmail.com 
 
