@@ -57,12 +57,6 @@ I enjoy working across the stack: designing systems, building APIs, integrating 
 
 ---
 
-### 📊 GitHub Stats
-![Dheer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SpaceMonk3&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SpaceMonk3&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ### 📫 Let’s connect
 - 📧 **dtammina.work@gmail.com**
 - 💼 Open to **software engineering**, **AI**, and **startup-oriented roles**
